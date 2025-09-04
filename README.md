@@ -32,3 +32,6 @@ _Slide-in cart with real-time updates and total calculation._
 ---
 
 ## 📂 Project Structure
+## 🌐 Live Demo
+👉 [Click here to try Smart Food Ordering](https://yuvarajssyk.github.io/smart-food-ordering/)
+
