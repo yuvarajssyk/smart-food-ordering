@@ -33,15 +33,10 @@ _Slide-in cart with real-time updates and total calculation._
 
 ## 📂 Project Structure
 ## 🌐 Live Demo
-👉 [Click here to try Smart Food Ordering](https://yuvarajssyk.github.io/smart-food-ordering/)
+###👉 [Click here to try Smart Food Ordering](https://yuvarajssyk.github.io/smart-food-ordering/)
 ---
 
-## 📄 License  
-This project is for **educational purposes only**.  
-Netflix® is a registered trademark of Netflix, Inc.  
-This clone is made purely for practice.  
 
----
 
 ✨ **Created by [Yuvaraj S](https://github.com/yuvarajssyk)**  
 
